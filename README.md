@@ -16,3 +16,4 @@ All that wants to sign the awesome manifest will commit their name to the github
 Signers (Name and handle)
 * Zander Havgaard - @zanderhavgaard
 * Sofus Albertsen - @sofusalbertsen
+* Florent Haxha - @kryptag
