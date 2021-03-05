@@ -18,3 +18,4 @@ Signers (Name and handle)
 * Sofus Albertsen - @sofusalbertsen
 * Florent Haxha - @kryptag
 * Jan Krag - @JKrag
+* Christoffer Nissen - @ChristofferNissen
