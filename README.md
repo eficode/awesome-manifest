@@ -17,3 +17,4 @@ Signers (Name and handle)
 * Zander Havgaard - @zanderhavgaard
 * Sofus Albertsen - @sofusalbertsen
 * Florent Haxha - @kryptag
+* Christoffer Nissen - @ChristofferNissen
