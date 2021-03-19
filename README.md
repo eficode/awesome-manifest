@@ -20,3 +20,4 @@ Signers (Name and handle)
 * Jan Krag - @JKrag
 * Christoffer Nissen - @ChristofferNissen
 * Claus Schneider @bicschneider
+* Tim Harris - @TheDukeDK
