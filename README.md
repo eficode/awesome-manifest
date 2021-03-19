@@ -19,3 +19,4 @@ Signers (Name and handle)
 * Florent Haxha - @kryptag
 * Jan Krag - @JKrag
 * Christoffer Nissen - @ChristofferNissen
+* Claus Schneider @bicschneider
