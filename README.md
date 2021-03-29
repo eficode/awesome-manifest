@@ -21,3 +21,4 @@ Signers (Name and handle)
 * Christoffer Nissen - @ChristofferNissen
 * Claus Schneider @bicschneider
 * Tim Harris - @TheDukeDK
+* Morten Christensen - @mortench3000
