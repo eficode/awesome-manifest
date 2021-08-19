@@ -22,3 +22,4 @@ Signers (Name and handle)
 * Claus Schneider @bicschneider
 * Tim Harris - @TheDukeDK
 * Morten Christensen - @mortench3000
+* Amruta Shetye - @amrutashety
