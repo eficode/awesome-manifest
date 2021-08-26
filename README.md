@@ -23,3 +23,4 @@ Signers (Name and handle)
 * Tim Harris - @TheDukeDK
 * Morten Christensen - @mortench3000
 * Amruta Shetye - @amrutashety
+* Mônica Souza - @msouza1314
